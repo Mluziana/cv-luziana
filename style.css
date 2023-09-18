@@ -26,18 +26,15 @@ main{
     background-color: #ffffff;
 }
 
-h2,{
-    
-    padding-top: 20px;
+h2{
+    background-color: #eeeeee;
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
 h4{
     color: rgb(5, 5, 128);
 }
-p{
-    text-align: justify;
-    padding-bottom: 15px;
-    padding-top: 15px;
-}
+
 li{
     text-decoration: none;
     margin-left: 20px;
@@ -49,6 +46,11 @@ footer{
     margin-top: 15px;
 }
 
+#experiencia{
+    text-align: justify;
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
 
 
 @media (max-width: 1440px) {
